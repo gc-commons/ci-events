@@ -1,0 +1,19 @@
+{
+  "name": "ci-event",
+  "version": "0.1.5",
+  "description": "Common service to avoid load issues",
+  "main": [
+    "src/event.service.js"
+  ],
+  "author": "Juan Gallo",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-cli": "^0.1.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17",
+    "karma-coverage": "^0.3.1"
+  }
+}

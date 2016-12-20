@@ -1,0 +1,28 @@
+{
+  "name": "ci-event",
+  "version": "0.1.5",
+  "description": "Common service to avoid load issues",
+  "main": [
+    "src/event.service.js"
+  ],
+  "authors": [
+    "Juan Gallo <juan.gallo@cityindex.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.9",
+    "angular-cookies": "~1.2.9",
+    "angular-mocks": "~1.2.9",
+    "lodash": "~3.10.0",
+    "ci-http": "git@cityindex.unfuddle.com:cityindex/cihttp.git#~0.2.0",
+    "ci-translate": "git@cityindex.unfuddle.com:cityindex/ifelitecommongit.git#~0.2.0",
+    "ci-brands": "git@cityindex.unfuddle.com:cityindex/cibrands.git#~0.1.1"
+  }
+}
