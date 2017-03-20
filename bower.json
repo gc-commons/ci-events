@@ -21,8 +21,8 @@
     "angular-cookies": "~1.2.9",
     "angular-mocks": "~1.2.9",
     "lodash": "~3.10.0",
-    "ci-http": "git@cityindex.unfuddle.com:cityindex/cihttp.git#~0.2.0",
-    "ci-translate": "git@cityindex.unfuddle.com:cityindex/ifelitecommongit.git#~0.2.0",
-    "ci-brands": "git@cityindex.unfuddle.com:cityindex/cibrands.git#~0.1.1"
+    "ci-http": "https://github.com/gc-commons/ci-http.git",
+    "ci-translate": "https://github.com/gc-commons/ci-translate.git",
+    "ci-brands": "https://github.com/gc-commons/ci-brands.git"
   }
 }
